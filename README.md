@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/python-%23F7FE2E?style=for-the-badge&logo=python&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/autocad-%23BE81F7?style=for-the-badge&logo=autocad&logoColor=white)
+
+
 ![Static Badge](https://img.shields.io/badge/gmail-%23F5A9A9?style=for-the-badge&logo=gmail&logoColor=red)
+
 <a href="mailto:chaochao5877@gmail.com">
-
-
 
 
 
